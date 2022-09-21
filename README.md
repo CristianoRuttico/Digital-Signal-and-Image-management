@@ -1,2 +1,2 @@
 # Digital-Signal-and-Image-managment
-University project: 
+University project: Audio, Image recognition, and image retrieval
